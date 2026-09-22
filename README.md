@@ -1,4 +1,4 @@
-# PharmaSys - Sistema Transaccional Farmacéutico (Fase 3)
+# PharmaSys - Sistema Farmacéutico
 
 Este repositorio contiene la estructura inicial del backend y la base de datos para el sistema **PharmaSys** Hecho por y para Julian Montoya :D!
 
