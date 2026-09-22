@@ -1,1 +1,13 @@
-
+{
+  "name": "pharmasys-backend",
+  "version": "1.0.0",
+  "description": "Estructura inicial del backend para el Sistema PharmaSys",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "pg": "^8.11.5"
+  }
+}
